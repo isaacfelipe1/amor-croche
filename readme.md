@@ -1,3 +1,3 @@
 
 ## Tela Inicial
-![Logo do Projeto](foto/telaInicial.png)
+![Logo do Projeto](images/telaInicial.png)
